@@ -1,0 +1,13 @@
+C:\Users\50020893\OneDrive - SERC\c#\ConsoleCalculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.csprojAssemblyReference.cache
+C:\Users\50020893\OneDrive - SERC\c#\ConsoleCalculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.AssemblyInfoInputs.cache
+C:\Users\50020893\OneDrive - SERC\c#\ConsoleCalculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.AssemblyInfo.cs
+C:\Users\50020893\OneDrive - SERC\c#\ConsoleCalculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\50020893\OneDrive - SERC\c#\ConsoleCalculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.exe
+C:\Users\50020893\OneDrive - SERC\c#\ConsoleCalculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.deps.json
+C:\Users\50020893\OneDrive - SERC\c#\ConsoleCalculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.runtimeconfig.json
+C:\Users\50020893\OneDrive - SERC\c#\ConsoleCalculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.runtimeconfig.dev.json
+C:\Users\50020893\OneDrive - SERC\c#\ConsoleCalculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.dll
+C:\Users\50020893\OneDrive - SERC\c#\ConsoleCalculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.pdb
+C:\Users\50020893\OneDrive - SERC\c#\ConsoleCalculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.dll
+C:\Users\50020893\OneDrive - SERC\c#\ConsoleCalculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.pdb
+C:\Users\50020893\OneDrive - SERC\c#\ConsoleCalculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.genruntimeconfig.cache
